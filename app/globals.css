@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root { color-scheme: light; }
+
+/* Subtle watermark (optional). Enable by uncommenting.
+body::before {
+  content: '';
+  position: fixed;
+  inset: 0;
+  background: url('/brand/martinsville-seal.jpg') no-repeat center;
+  background-size: 520px 520px;
+  opacity: 0.03;
+  pointer-events: none;
+  z-index: -1;
+}
+*/

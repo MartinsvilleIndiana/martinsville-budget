@@ -1,0 +1,119 @@
+{
+  "fiscalYear": 2026,
+  "lastUpdated": "2026-05-15",
+  "totals": {
+    "adopted": 19329860,
+    "spent": 5062661.29
+  },
+  "funds": [
+    {
+      "fund": "General Fund",
+      "adopted": 15000000,
+      "spent": 4000000,
+      "departments": [
+        {
+          "department": "Police",
+          "adopted": 4500000,
+          "spent": 1500000
+        },
+        {
+          "department": "Fire",
+          "adopted": 3200000,
+          "spent": 980000
+        },
+        {
+          "department": "Streets",
+          "adopted": 1800000,
+          "spent": 420000
+        },
+        {
+          "department": "Clerk-Treasurer",
+          "adopted": 492728,
+          "spent": 142160.46
+        }
+      ]
+    },
+    {
+      "fund": "MVH",
+      "adopted": 2500000,
+      "spent": 620000,
+      "departments": [
+        {
+          "department": "Street Department",
+          "adopted": 2500000,
+          "spent": 620000
+        }
+      ]
+    },
+    {
+      "fund": "Parks",
+      "adopted": 750000,
+      "spent": 180000,
+      "departments": [
+        {
+          "department": "Parks & Recreation",
+          "adopted": 750000,
+          "spent": 180000
+        }
+      ]
+    }
+  ],
+  "capitalProjects": [
+    {
+      "projectName": "Sidewalks Phase 5",
+      "fund": "MVH",
+      "budgeted": 173604.82,
+      "spent": 50000,
+      "status": "In Progress",
+      "description": "Sidewalk improvements in priority corridors.",
+      "owner": "City"
+    },
+    {
+      "projectName": "North Levee",
+      "fund": "Cumulative Capital Improvement",
+      "budgeted": 1000000,
+      "spent": 120000,
+      "status": "In Progress",
+      "description": "Levee improvements and stabilization.",
+      "owner": "City"
+    },
+    {
+      "projectName": "City Hall Parking Lot",
+      "fund": "RDC22",
+      "budgeted": 213000,
+      "spent": 40000,
+      "status": "Planned",
+      "description": "Resurface and improve City Hall parking lot.",
+      "owner": "City"
+    },
+    {
+      "projectName": "Fire Truck",
+      "fund": "EDIT",
+      "budgeted": 100000,
+      "spent": 10000,
+      "status": "Planned",
+      "description": "Funding toward replacement/upgrade.",
+      "owner": "Fire Dept"
+    }
+  ],
+  "documents": [
+    {
+      "title": "Adopted Budget (PDF)",
+      "type": "Budget",
+      "year": 2026,
+      "url": "#"
+    },
+    {
+      "title": "Annual Financial Report (AFR)",
+      "type": "AFR",
+      "year": 2024,
+      "url": "#"
+    },
+    {
+      "title": "Additional Appropriations",
+      "type": "Ordinance/Resolution",
+      "year": 2025,
+      "url": "#"
+    }
+  ]
+}
